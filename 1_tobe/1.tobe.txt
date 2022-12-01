@@ -1,0 +1,44 @@
+Read an listen (baca dan dengarkan)
+
+A Hello, my name's fauzi. What's your name? (Hello , nama saya fauzi , siapa nama kamu)
+B Ludy 
+A Where do you from ludy? (kamu berasal dari mana ludy)
+B I'm from malang. (saya dari malang)
+
+====================
+GRAMAR SPORT
+name's = name is
+what's = what is
+i'm = i am
+====================
+
+is am adalah tobe / be verb
+kata kerja bantu
+
+peraturan dalam bhs inggris setiap kalimat harus memiliki tobe
+because , each sentence must have verb
+(karena, setiap kalimat harus memiliki kata kerja)
+
+example (contoh)
+
+saya dari malang 
+i from malang (wrong = salah) because no verb
+i am from malang (correct = benar) because use verb / or
+i'm from malang (correct = benar)
+
+penggunaan tobe is, am , are
+is : digunakan sebelum kata benda 
+rumus nya 
+kata benda + is 
+example noun : name (name is noun)
+
+am : digunakan hanya pada kata i 
+rumus nya 
+i + am 
+example : i am from malang 
+
+are : digunakan hanya pada kata you 
+rumus nya 
+you + are 
+kalimat tanya : are you?
+example : you are smart student
