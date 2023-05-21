@@ -30,7 +30,7 @@ I   : => use tobe am
 He  :  
 She : => use tobe is 
 It  :  
-it : is noun (kata benda) example name 
+it is noun (kata benda) example name 
  
 We  :
 You : => use tobe are 
@@ -41,6 +41,19 @@ i , he , she , it , we , you , they is called pronouns (kata ganti)
 Ask and answer questions about the people  : => (Ajukan dan jawab pertanyaan tentang orang orang)
 Use he/his and she/her. : => (gunakan he/his dan she/her)
 
+his used to describe or about another person. where the other person is a man.
+(digunakan untuk menjelaskan atau tentang orang lain. dimana orang lain tersebut adalah laki laki)
+
+her used to describe or about another person. where the other person is a woman.
+(digunakan untuk menjelaskan atau tentang orang lain. dimana orang lain tersebut adalah perempuan)
+
+example (contoh) : 
+his name (namanya <untuk jenis kelamin laki laki>)
+her name (namanya <untuk jenis kelamin perempuan>)
+
+My name is fauzi and her name is ludy.
+(nama saya adalah fauzi dan nama dia adalah ludy)
+
 What’s his name?  Gordon. 
 Where’s he from?  Canada. 
 What’s her name?  Tomoko. 
@@ -50,26 +63,25 @@ Now we learn about interrogative sentences : => (sekarang kita belajar tentang k
 when we make interrogative sentences : => (apabila kita membuat kalimat tanya)
 To be + pronouns ?
 
+example interrogative
+What’s his name?  (siapa nama dia ?) untuk laki-laki
+Where’s he from?  (darimana dia berasal) untuk laki- laki
+What’s her name?  (siapa nama dia ?) untuk perempuan
+Where’s she from? (darimana dia berasal) untuk perempuan  
+
 when we make statements : => (apabila kita membuat kalimat pernyataan)
 pronouns + To be.
 
-
-example interrogative
-What’s his name?  
-Where’s he from?  
-What’s her name?  
-Where’s she from?  
-
 example statements
-his name is fauzi.
-his from is malang.
-her name is ludy.
-her from is malang.
+his name is fauzi. (nama dia adalah fauzi)
+his from is malang. (dia dari malang)
+her name is ludy. (nama dia adalah ludy)
+her from is malang. (dia dari malang)
 
 his used when describing other people (male / laki laki)
 her used when describing other people (female / perempuan)
 
-Complete the sentences with am, is, are, her, his or your.  
+Complete the sentences with am, is, are, her, his or your.  (lengkapi kalimat dengan ...)
 1. My name "is" Anna. 
 2. Where "are" you from? 
 3. I "am" from Japan. 
@@ -82,3 +94,36 @@ Complete the sentences with am, is, are, her, his or your.
 vocabulary : => (kosa kata)
 sister : => (saudara perempuan)
 brother : => (saudara laki laki)
+
+Read about Rafael and 🎧 Listen. (Baca tentang rafael dan dengarkan)
+My name’s Rafael Ramos and I’m a doctor. I’m 30. I’m married and I have two 
+children. I live in a house in Toluca in Mexico. I want to learn English for my job. 
+(Nama saya adalah Rafael ramos. saya adalah dokter. usia saya 30 tahun, 
+saya sudah menikah dan saya mempunyai 2 anak. saya tinggal di toluca di mexico. 
+saya ingin belajar bahasa inggris untuk pekerjaan saya)
+
+
+vocabulary (kosa kata) : 
+1. Merried (menikah)
+2. Have (mempunyai)
+3. children (anak anak)
+4. want (ingin)
+5. job pekerjaan.
+6. live (tinggal)
+7. a house (sebuah rumah)
+8. live (tinggal)
+
+
+Complete the text about Yaling.         
+"My" name’s Yaling Chen and I’m a student.  
+I "am" 19. I’m not  married. I have one "sister" and two brothers. 
+I "live" in an apartment in Taipei, Taiwan.  
+I "want" to learn English 
+because it’s an international "language".     
+(
+Nama saya Yaling Chen dan saya seorang siswa.
+Saya 19. Saya belum menikah. Saya memiliki satu saudara perempuan dan dua saudara laki-laki.
+Saya tinggal di sebuah apartemen di Taipei, Taiwan.
+Saya ingin belajar bahasa Inggris
+karena itu bahasa internasional.
+)
