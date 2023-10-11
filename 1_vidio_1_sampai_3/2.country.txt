@@ -24,13 +24,15 @@ he’s = he is
 she’s = she is 
 they’re = they are
 
-
-I   : => use tobe am
-
-He  :  
-She : => use tobe is 
-It  :  
-it is noun (kata benda) example name 
+ -------------------------------------------
+|   I   : => use tobe am                    |
+| ------------------------------------------|
+|   He  :                                   |
+|   She : => use tobe is                    |
+|   It  :                                   |
+| ------------------------------------------|
+|   it is noun (kata benda) example name    |
+| ------------------------------------------|
  
 We  :
 You : => use tobe are 
@@ -61,7 +63,7 @@ Where’s she from?  Japan.
 
 Now we learn about interrogative sentences : => (sekarang kita belajar tentang kalimat tanya)
 when we make interrogative sentences : => (apabila kita membuat kalimat tanya)
-To be + pronouns ?
+To be (is / am / are) + pronouns ?
 
 example interrogative
 What’s his name?  (siapa nama dia ?) untuk laki-laki
@@ -70,7 +72,7 @@ What’s her name?  (siapa nama dia ?) untuk perempuan
 Where’s she from? (darimana dia berasal) untuk perempuan  
 
 when we make statements : => (apabila kita membuat kalimat pernyataan)
-pronouns + To be.
+pronouns + To be (is / am / are).
 
 example statements
 his name is fauzi. (nama dia adalah fauzi)
