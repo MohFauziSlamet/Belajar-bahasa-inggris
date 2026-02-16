@@ -62,6 +62,17 @@
 - **How old** = Berapa umur
 - **Is she** = Apakah dia
 
+> [!NOTE]
+> **Wh- Questions vs Yes/No Questions:**
+> - **Wh- Questions** (What, Where) ask for information. *(Pertanyaan Wh- meminta informasi.)*
+> - **Yes/No Questions** (Is she...?) ask for a "Yes" or "No" answer. *(Pertanyaan Ya/Tidak meminta jawaban "Ya" atau "Tidak".)*
+
+### 💡 Extra Examples
+- **Q:** What's his job? *(Apa pekerjaannya?)*
+- **A:** He's a teacher. *(Dia seorang guru.)*
+- **Q:** Is he a teacher? *(Apakah dia seorang guru?)*
+- **A:** Yes, he is. *(Ya, benar.)*
+
 ---
 
 ## PART 2: Grammar Spot - Yes/No Questions
@@ -73,6 +84,11 @@
 ```
 Is/Are + Subject + ...?
 ```
+
+> [!TIP]
+> **Intonation:** When asking Yes/No questions, your voice usually goes **up** at the end.
+> *(Intonasi: Saat bertanya pertanyaan Ya/Tidak, suaramu biasanya **naik** di akhir kalimat.)*
+> - *Is she married? ⤴️*
 
 **Examples:**
 
@@ -196,6 +212,11 @@ Brenda's job = her job          → Pekerjaan Brenda = pekerjaannya
 **Q:** What's her name? *(Siapa namanya?)*
 **A:** Her name's Laura. *(Namanya Laura.)*
 
+> [!CAUTION]
+> **Common Mistake:** Don't confuse **'s** (is) and **'s** (possession).
+> - She**'s** a teacher. (She is) -> *Dia adalah seorang guru.*
+> - Patrick**'s** wife. (Possession) -> *Istri Patrick (bukan "Patrick adalah istri").*
+
 ---
 
 ### 📖 Reading: Patrick Binchey's Family
@@ -236,6 +257,11 @@ Brenda's job = her job          → Pekerjaan Brenda = pekerjaannya
 
 ## PART 4: Verb "To Be" - Practice
 ### 🎯 Latihan Verb "To Be"
+
+> [!TIP]
+> **Speaking vs Writing:**
+> - **Speaking:** Use contractions (I'm, You're). *(Berbicara: Gunakan singkatan.)*
+> - **Formal Writing:** Use full forms (I am, You are). *(Menulis Formal: Gunakan bentuk lengkap.)*
 
 Complete the sentences with the correct form of "to be":
 *(Lengkapi kalimat dengan bentuk yang benar dari "to be")*
@@ -280,27 +306,35 @@ Put a check (✓) next to the **CORRECT** sentence:
 
 1. ✅ **I'm a doctor.** *(Saya seorang dokter.)*
    ❌ I'm doctor.
+   > **Why?** Jobs need an article (a/an). *(Mengapa? Pekerjaan membutuhkan kata sandang 'a/an'.)*
 
 2. ❌ I have twenty-nine years old.
    ✅ **I am twenty-nine years old.** *(Saya berumur 29 tahun.)*
+   > **Why?** Use "to be" for age, not "have". *(Mengapa? Gunakan "to be" untuk umur, bukan "have".)*
 
 3. ❌ I no married.
    ✅ **I'm not married.** *(Saya tidak menikah.)*
+   > **Why?** Negative "to be" is "am not", not "no". *(Mengapa? Bentuk negatif "to be" adalah "am not", bukan "no".)*
 
 4. ✅ **My sister's name is Laura.** *(Nama saudara perempuan saya Laura.)*
    ❌ My sisters name is Laura.
+   > **Why?** Use **'s** for possession. *(Mengapa? Gunakan **'s** untuk kepemilikan.)*
 
 5. ❌ She married.
    ✅ **She's married.** *(Dia menikah.)*
+   > **Why?** Missing verb "is". *(Mengapa? Kurang kata kerja "is".)*
 
 6. ✅ **I'm an uncle.** *(Saya seorang paman.)*
    ❌ I'm a uncle.
+   > **Why?** Use **an** before vowels (u). *(Mengapa? Gunakan **an** sebelum huruf vokal.)*
 
 7. ❌ I have two brother.
    ✅ **I have two brothers.** *(Saya punya dua saudara laki-laki.)*
+   > **Why?** Plural nouns add **s**. *(Mengapa? Kata benda jamak menambahkan **s**.)*
 
 8. ❌ Patrick's my sister son's.
    ✅ **Patrick's my sister's son.** *(Patrick adalah anak saudara perempuan saya.)*
+   > **Why?** Possession chain: Sister's son. *(Mengapa? Rantai kepemilikan: Anak (dari) saudara perempuan.)*
 
 ---
 
@@ -319,6 +353,12 @@ Put a check (✓) next to the **CORRECT** sentence:
 | **nice** | ↔ | **awful** | baik / buruk |
 | **hot** | ↔ | **cold** | panas / dingin |
 | **expensive** | ↔ | **cheap** | mahal / murah |
+
+### 💡 Practice Sentences
+- **English is easy.** *(Bahasa Inggris itu mudah.)*
+- **This problem is difficult.** *(Masalah ini sulit.)*
+- **Your car is fast.** *(Mobilmu cepat.)*
+- **The turtle is slow.** *(Kura-kura itu lambat.)*
 
 ### Examples with Visual Comparisons:
 
@@ -485,6 +525,13 @@ Salam sayang,
 Dorita
 ```
 
+### 📚 Vocabulary Bank (Reading)
+- **Community College:** A type of college in the US. *(Perguruan Tinggi Komunitas: Sejenis perguruan tinggi di AS.)*
+- **Apartment:** Flat/House connection. *(Apartemen: Tempat tinggal.)*
+- **Subway:** Underground train system. *(Kereta bawah tanah.)*
+- **Exciting:** Fun and interesting. *(Menarik/Seru/Mengasyikkan.)*
+- **Difficult:** Not easy / Hard. *(Sulit/Susah.)*
+
 ---
 
 ### Comprehension Questions (Pertanyaan Pemahaman)
@@ -541,6 +588,12 @@ Dorita
 | **$10.75** | ten dollars and seventy-five cents<br>ten seventy-five | sepuluh dolar tujuh puluh lima sen |
 | **$7.50** | seven dollars and fifty cents<br>seven-fifty | tujuh dolar lima puluh sen |
 | **50¢** | fifty cents | lima puluh sen |
+
+> [!NOTE]
+> **Money Tips:**
+> - $1.50 can be said as: **"One dollar fifty"** OR **"One fifty"**.
+> - $100 = **"One hundred dollars"**.
+> - ¢ = **Cents** (100 cents = 1 dollar).
 
 ---
 
@@ -634,6 +687,14 @@ Dorita
 *(Berapa harga hamburger dan kentang goreng dan jus jeruk?)*
 **A:** Six twenty-five.
 *(Enam dolar dua puluh lima sen.)*
+
+> [!TIP]
+> **Roleplay Tip:** Practice with a friend. One person is the server (A), and the other is the customer (B). Switch roles!
+> *(Tip Bermain Peran: Berlatihlah dengan teman. Satu orang menjadi pelayan (A), dan yang lain menjadi pelanggan (B). Tukar peran!)*
+
+> [!NOTE]
+> **Culture Note (USA):** In the US, people usually give a **tip** (extra money) to waiters/waitresses (15-20%).
+> *(Catatan Budaya (AS): Di AS, orang biasanya memberikan **tip** (uang tambahan) kepada pelayan (15-20%).)*
 
 ---
 
@@ -1045,6 +1106,7 @@ Are they...?
 
 3. **Practice the verb "to be" in different contexts.**
    *(Latih verb "to be" dalam konteks yang berbeda.)*
+   > **Tip:** Use a mirror to practice speaking to yourself. *(Tip: Gunakan cermin untuk berlatih berbicara sendiri.)*
 
 4. **Role-play ordering food at a restaurant with a partner.**
    *(Bermain peran memesan makanan di restoran dengan teman.)*
